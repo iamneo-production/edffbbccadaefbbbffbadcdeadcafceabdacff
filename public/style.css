@@ -1,9 +1,12 @@
 body{
     background-color: aliceblue;
+    border-width: 2px;
+    border-color: blueviolet;
 }
 .row
 {
-
+width: 800px;
+height:100px;
 }
 .box{
     color: aliceblue;
